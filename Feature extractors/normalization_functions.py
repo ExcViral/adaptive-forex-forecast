@@ -22,5 +22,3 @@ def simple_normalize(data):
     normalized_data.append(max_elem)
     return normalized_data
 
-
-print(simple_normalize([5, 4, 3, 2, 1]))
